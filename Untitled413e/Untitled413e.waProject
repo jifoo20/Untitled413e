@@ -3,9 +3,6 @@
 	<folder path="./WebFolder/">
 		<tag name="webFolder"/>
 	</folder>
-	<folder path="./Untitled1/">
-		<tag name="dataFolder"/>
-	</folder>
 	<file path="./Model.waModel">
 		<tag name="catalog"/>
 	</file>
